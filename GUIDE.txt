@@ -1,0 +1,6 @@
+1. Install Python 3.7.2
+2. Install PyCharm IDE
+3. Install Kivy Library
+4. Open main.py
+5. Set Python interpretor in PyCharmIDE
+6. Run main.py
